@@ -2,7 +2,7 @@
     padding-bottom: 9%;
     }
     #vaccine{padding-top: 8%}
-    #video{
-        /* padding-top: 10%; */
-        border-radius: 10px; 
-        overflow: hidden; }
+      #video{
+         padding-top: 10%; 
+         border-radius: 10px; 
+         overflow: hidden; } 
